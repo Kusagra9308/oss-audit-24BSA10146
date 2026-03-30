@@ -32,7 +32,7 @@ Generates a personal manifesto based on user input.
 
 1. Open terminal
 2. Navigate to folder:
-   cd oss-audit-[24BCE11196]
+   cd oss-audit-[24BSA10146]
 
 3. Give permission:
    chmod +x *.sh
